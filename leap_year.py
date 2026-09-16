@@ -10,7 +10,7 @@ def is_leap_year(year):
     else: 
           return False
 print(is_leap_year(2000))
-#his is how you work out whether if a particular year is a leap year. 
+#this is how you work out whether if a particular year is a leap year. 
 
 #- on every year that is divisible by 4 with no remainder
 
