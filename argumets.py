@@ -12,4 +12,5 @@ print(add(nums))
 #kwargs keyword argyments
 def greet(**kwargs):
     print(kwargs)
-return(ame="supray",age=23))
+greet(name="supray",age=23)
+
